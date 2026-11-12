@@ -1,0 +1,3 @@
+# P0 仅使用 Python 标准库（tkinter / subprocess / threading / dataclasses），无第三方依赖。
+# 运行环境：Windows 11，Python 3.10+（本机实测 3.13.16，Tkinter 8.6）。
+# P1 本地提取层（OCR / 小模型）所需依赖将在实测准确率与耗时后另行追加。
